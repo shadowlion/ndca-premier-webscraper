@@ -28,16 +28,11 @@ Follow the prompt to execute certain commands. The data will be stored in a json
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/shadowlion/ndca-premier-webscraper/blob/main/LICENSE)
 
 ## Author
 
 [Justin Chiou](https://github.com/shadowlion)
-
-## Acknowledgements
-
-- [Playwright](https://playwright.dev/python/docs/intro)
-- [NDCA](https://www.ndca.org/)
 
 ## Disclaimer
 
